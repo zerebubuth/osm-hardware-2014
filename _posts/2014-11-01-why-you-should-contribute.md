@@ -7,7 +7,7 @@ order: 2
 
 OpenStreetMap is a fantastic project to which thousands of people
 around the world contribute daily. OpenStreetMap distributes data
-which powers services used by millions and helps save lives. Despite
+that powers services used by millions and helps save lives. Despite
 the dedicated efforts of volunteers, we cannot run the project without
 computer hardware, which costs money. You can help the project thrive
 over the next year by contributing what you can.
